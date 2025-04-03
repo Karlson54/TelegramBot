@@ -1,0 +1,19 @@
+{
+    "default_message": "Повідомлення не знайдено",
+    "catalog_btn": "Каталог товарів",
+    "info_btn": "Інформація",
+    "feedback_btn": "Зв'язок",
+    "help_btn": "Допомога",
+    "admin_products_btn": "Управління товарами",
+    "admin_orders_btn": "Управління замовленнями",
+    "cancel_btn": "Скасувати",
+    "add_to_cart_btn": "Додати в кошик",
+    "back_to_catalog_btn": "Назад до каталогу",
+    "checkout_btn": "Оформити замовлення",
+    "clear_cart_btn": "Очистити кошик",
+    "continue_shopping_btn": "Продовжити покупки",
+    "confirm_order_btn": "Підтвердити замовлення",
+    "cancel_order_btn": "Скасувати замовлення",
+    "card_payment_btn": "Оплата карткою",
+    "cash_payment_btn": "Оплата готівкою"
+  }

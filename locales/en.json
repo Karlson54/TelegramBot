@@ -1,0 +1,19 @@
+{
+    "default_message": "Message not found",
+    "catalog_btn": "Product Catalog",
+    "info_btn": "Information",
+    "feedback_btn": "Contact Us",
+    "help_btn": "Help",
+    "admin_products_btn": "Manage Products",
+    "admin_orders_btn": "Manage Orders",
+    "cancel_btn": "Cancel",
+    "add_to_cart_btn": "Add to Cart",
+    "back_to_catalog_btn": "Back to Catalog",
+    "checkout_btn": "Checkout",
+    "clear_cart_btn": "Clear Cart",
+    "continue_shopping_btn": "Continue Shopping",
+    "confirm_order_btn": "Confirm Order",
+    "cancel_order_btn": "Cancel Order",
+    "card_payment_btn": "Card Payment",
+    "cash_payment_btn": "Cash Payment"
+  }
