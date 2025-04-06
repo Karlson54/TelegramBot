@@ -37,8 +37,8 @@ if __name__ == '__main__':
     admin_handlers.register_admin_handlers(bot)
     
     # Добавьте регистрацию остальных обработчиков, когда они будут готовы
-    # order_handlers.register_order_handlers(bot)
-    # payment_handlers.register_payment_handlers(bot)
+    order_handlers.register_order_handlers(bot)
+    payment_handlers.register_payment_handlers(bot)
     
     logger.info("Бот запущен...")
     

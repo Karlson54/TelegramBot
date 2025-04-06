@@ -11,7 +11,7 @@ def create_test_products():
             name="Товар 1",
             description="Описание товара 1",
             price=9.99,
-            image_url="https://example.com/images/product1.jpg",
+            image_url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
             available=True,
             created_at=datetime.datetime.utcnow()
         ),
@@ -19,7 +19,7 @@ def create_test_products():
             name="Товар 2",
             description="Описание товара 2",
             price=19.99,
-            image_url="https://example.com/images/product2.jpg",
+            image_url="https://cdn.shopify.com/s/files/1/0754/2767/6508/files/what_is_a_jpg_file_480x480.jpg?v=1683282723",
             available=True,
             created_at=datetime.datetime.utcnow()
         ),
